@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d1b3d5e-99bd-4593-b35e-4a3d0079218b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/features/rating.py" afterDir="false" />
+    <list default="true" id="9d1b3d5e-99bd-4593-b35e-4a3d0079218b" name="Changes" comment="this is my rating code">
+      <change afterPath="$PROJECT_DIR$/features/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +84,23 @@
       <option name="presentableId" value="Default" />
       <updated>1773993533392</updated>
     </task>
+    <task id="LOCAL-00001" summary="this is my rating code">
+      <option name="closed" value="true" />
+      <created>1774251722652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774251722652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this is my rating code">
+      <option name="closed" value="true" />
+      <created>1774251761376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774251761377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is my rating code" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my rating code" />
   </component>
 </project>
